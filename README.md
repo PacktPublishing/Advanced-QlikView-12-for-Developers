@@ -31,3 +31,7 @@ QlikView 12
 
 * [Design for Security on AWS [Video]](https://www.packtpub.com/virtualization-and-cloud/design-security-aws-video?utm_source=github&utm_medium=repository&utm_campaign=9781838556440)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789130904">https://packt.link/free-ebook/9781789130904 </a> </p>
